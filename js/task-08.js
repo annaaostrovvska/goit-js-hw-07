@@ -17,6 +17,7 @@ function crtBoxs(){
     div_clone.style.backgroundColor = 'red'
     divBoxes.append(div_clone)
     }
-    console.log(input.value);
+    console.log(input.value); 
     console.log(div_clone);
-}
+console.log(    
+);}
